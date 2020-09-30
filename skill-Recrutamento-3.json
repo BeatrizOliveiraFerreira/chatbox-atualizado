@@ -1,0 +1,1288 @@
+{
+  "intents": [
+    {
+      "intent": "academica",
+      "examples": [
+        {
+          "text": "Fale um pouco sobre sua formação acadêmica"
+        },
+        {
+          "text": "formação acadêmica"
+        },
+        {
+          "text": "grau de formação"
+        },
+        {
+          "text": "Mas diz aqui somente curso superior incompleto em Publicidade"
+        },
+        {
+          "text": "Mas por que justo Data Science?"
+        },
+        {
+          "text": "O que te fez desistir dessas duas faculdades?"
+        },
+        {
+          "text": "Por que Data Science?"
+        },
+        {
+          "text": "Por que saiu da faculdade?"
+        },
+        {
+          "text": "pretende voltar a estudar?"
+        },
+        {
+          "text": "Qual a sua formação acadêmica?"
+        },
+        {
+          "text": "qual curso pretende fazer?"
+        },
+        {
+          "text": "Qual o seu grau de formação?"
+        },
+        {
+          "text": "Superior Incompleto em qual curso."
+        },
+        {
+          "text": "Você poderia falar um pouco sobre a sua formação acadêmica?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "cinco_anos",
+      "examples": [
+        {
+          "text": "como você se vê em cinco anos?"
+        },
+        {
+          "text": "E que projeto seria esse?"
+        },
+        {
+          "text": "me diga onde você se vê em cinco anos"
+        },
+        {
+          "text": "onde você se vê daqui a cinco anos?"
+        },
+        {
+          "text": "Onde você se vê em cinco anos?"
+        },
+        {
+          "text": "o que imagina estar fazendo daqui a cinco anos?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "concorrentes",
+      "examples": [
+        {
+          "text": "me conte quem são os seus concorrentes"
+        },
+        {
+          "text": "quais são os seus concorrentes?"
+        },
+        {
+          "text": "quais são os seus principais concorrentes?"
+        },
+        {
+          "text": "quais seus concorrentes?"
+        },
+        {
+          "text": "Quem são seus concorrentes?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "contato",
+      "examples": [
+        {
+          "text": "contato"
+        },
+        {
+          "text": "email para contato"
+        },
+        {
+          "text": "endereço"
+        },
+        {
+          "text": "Qual é o seu endereço?"
+        },
+        {
+          "text": "Qual é o seu número de telefone para contato?"
+        },
+        {
+          "text": "telefone para contato"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "curriculo",
+      "examples": [
+        {
+          "text": "currículo"
+        },
+        {
+          "text": "faça um breve resumo sobre o seu currículo"
+        },
+        {
+          "text": "fale sobre o seu curriculo"
+        },
+        {
+          "text": "fale sobre o seu currículo"
+        },
+        {
+          "text": "fale um pouco do seu currículo"
+        },
+        {
+          "text": "Fale um pouco sobre o seu currículo"
+        },
+        {
+          "text": "fale um pouco sobre seu currículo"
+        },
+        {
+          "text": "você poderia me explicar um pouco sobre o seu currículo?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "desafio",
+      "examples": [
+        {
+          "text": "desafio"
+        },
+        {
+          "text": "maior desafio"
+        },
+        {
+          "text": "me conte o seu maior desafio"
+        },
+        {
+          "text": "me diga um desafio muito grande que teve que enfrentar na programação"
+        },
+        {
+          "text": "qual o seu maior desafio?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "desconfortavel",
+      "examples": [
+        {
+          "text": "me conte o que te deixe desconfortável"
+        },
+        {
+          "text": "o que não gosta que façam com você?"
+        },
+        {
+          "text": "O que o deixa desconfortável?"
+        },
+        {
+          "text": "o que te irrita?"
+        },
+        {
+          "text": "o que você não gosta?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "descreva_si_mesmo",
+      "examples": [
+        {
+          "text": "Como você se descreve?"
+        },
+        {
+          "text": "Descreva-se."
+        },
+        {
+          "text": "fale de você"
+        },
+        {
+          "text": "fale um pouco de você"
+        },
+        {
+          "text": "fale um pouco mais de você"
+        },
+        {
+          "text": "fale um pouco sobre você"
+        },
+        {
+          "text": "o que te descreve?"
+        },
+        {
+          "text": "Quais são as suas características ?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "disponibilidade",
+      "examples": [
+        {
+          "text": "disponibilidade de horário"
+        },
+        {
+          "text": "Qual a sua disponibilidade?"
+        },
+        {
+          "text": "Qual a sua disponibilidade de horário?"
+        },
+        {
+          "text": "sua disponibilidade"
+        },
+        {
+          "text": "sua disponibilidade de horário"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "em_dez_anos",
+      "examples": [
+        {
+          "text": "me conte o que imagina estar fazendo daqui a 10 anos"
+        },
+        {
+          "text": "onde se enxerga daqui a 10 anos?"
+        },
+        {
+          "text": "Onde você se vê em 10 anos?"
+        },
+        {
+          "text": "o que acha que estará fazendo em 10 anos?"
+        },
+        {
+          "text": "o que espera estar fazendo em 10 anos?"
+        },
+        {
+          "text": "o que imagina estar fazendo em 10 anos?"
+        },
+        {
+          "text": "Quais as suas metas de carreira?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "emprego_dos_sonhos",
+      "examples": [
+        {
+          "text": "emprego dos seus sonhos"
+        },
+        {
+          "text": "emprego dos sonhos"
+        },
+        {
+          "text": "me conta como imagina o emprego dos seus sonhos"
+        },
+        {
+          "text": "me diga como você imagina o emprego dos seus sonhos?"
+        },
+        {
+          "text": "Qual o seu emprego dos sonhos?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "erro",
+      "examples": [
+        {
+          "text": "Conte sobre alguma vez em que você tenha cometido um erro"
+        },
+        {
+          "text": "Me diga sobre alguma situação que cometeu um erro"
+        },
+        {
+          "text": "Qual foi o seu maior erro?"
+        },
+        {
+          "text": "Qual foi o seu maior fracasso?"
+        },
+        {
+          "text": "Você já cometeu algum erro gravíssimo?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "finalizacao",
+      "examples": [
+        {
+          "text": "Até"
+        },
+        {
+          "text": "Até logo"
+        },
+        {
+          "text": "até logo!"
+        },
+        {
+          "text": "até mais"
+        },
+        {
+          "text": "Muito obrigado"
+        },
+        {
+          "text": "obrigada"
+        },
+        {
+          "text": "obrigada, tchau"
+        },
+        {
+          "text": "obrigado"
+        },
+        {
+          "text": "obrigado, tchau"
+        },
+        {
+          "text": "Obrigado, tenha um bom dia"
+        },
+        {
+          "text": "Tenha uma boa noite"
+        },
+        {
+          "text": "Tenha uma boa semana"
+        },
+        {
+          "text": "Tenha uma boa tarde"
+        },
+        {
+          "text": "Tenha um bom dia"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "hobbies",
+      "examples": [
+        {
+          "text": "hobbies"
+        },
+        {
+          "text": "me conte os seus hobbies"
+        },
+        {
+          "text": "me diga seus hobbies"
+        },
+        {
+          "text": "o que geralmente faz em suas horas de lazer?"
+        },
+        {
+          "text": "o que gosta de fazer nos momentos livres?"
+        },
+        {
+          "text": "Quais são os seus hobbies?"
+        },
+        {
+          "text": "seus hobbies"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "interesse_na_empresa",
+      "examples": [
+        {
+          "text": "diga o motivo do seu interesse em trabalhar em nossa empresa"
+        },
+        {
+          "text": "o que te levou a querer trabalhar nesta empresa?"
+        },
+        {
+          "text": "por que escolheu a nossa empresa para trabalhar?"
+        },
+        {
+          "text": "por que escolheu nossa empresa?"
+        },
+        {
+          "text": "Por que você está interessado em trabalhar para esta empresa?"
+        },
+        {
+          "text": "Por que você quer trabalhar nesta empresa?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "lider",
+      "examples": [
+        {
+          "text": "líder ou seguidor"
+        },
+        {
+          "text": "Me conte. Você se considera um líder ou um seguidor?"
+        },
+        {
+          "text": "você acha que é um líder ou seguidor?"
+        },
+        {
+          "text": "Você é um líder ou um seguidor?"
+        },
+        {
+          "text": "você se considera um líder ou um seguidor?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "livro",
+      "examples": [
+        {
+          "text": "me conte o último livro que leu para se divertir"
+        },
+        {
+          "text": "qual o nome do último livro que leu"
+        },
+        {
+          "text": "qual o último livro que leu"
+        },
+        {
+          "text": "qual o último livro que leu?"
+        },
+        {
+          "text": "Qual o último livro que você leu por diversão?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "motiva",
+      "examples": [
+        {
+          "text": "o que te faz feliz?"
+        },
+        {
+          "text": "o que te faz levantar da cama todos os dias?"
+        },
+        {
+          "text": "o que te faz sentir realizada?"
+        },
+        {
+          "text": "O que te motiva?"
+        },
+        {
+          "text": "quais são as suas motivações?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "pode_me_oferecer",
+      "examples": [
+        {
+          "text": "me diga o motivo que nos levaria a te contratar"
+        },
+        {
+          "text": "me explica o motivo pelo qual eu deveria te contratar"
+        },
+        {
+          "text": "O que só você pode nos oferecer?"
+        },
+        {
+          "text": "O que tem a ofereçer a nossa empresa?"
+        },
+        {
+          "text": "por que eu deveria de admitir"
+        },
+        {
+          "text": "Por que eu deveria te contratar?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "pontos_fortes",
+      "examples": [
+        {
+          "text": "me diga o seu ponto forte"
+        },
+        {
+          "text": "o que te destaca para esse emprego?"
+        },
+        {
+          "text": "ponto forte"
+        },
+        {
+          "text": "pontos fortes"
+        },
+        {
+          "text": "Quais são os seus pontos fortes?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "pontos_fracos",
+      "examples": [
+        {
+          "text": "me diga os seus pontos fracos"
+        },
+        {
+          "text": "o que você considera como ponto fraco?"
+        },
+        {
+          "text": "ponto fraco"
+        },
+        {
+          "text": "pontos fracos"
+        },
+        {
+          "text": "Quais são os seus pontos fracos?"
+        },
+        {
+          "text": "qual o seu maior defeito?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "realizacao_de_carreira",
+      "examples": [
+        {
+          "text": "Conte sobre a realização de carreira da qual mais se orgulha."
+        },
+        {
+          "text": "me conte sobre sua realização de carreira"
+        },
+        {
+          "text": "me conte sua maior realização de carreira"
+        },
+        {
+          "text": "o que mais se orgulha na sua carreira?"
+        },
+        {
+          "text": "Qual a realização de carreira mais se orgulha?"
+        },
+        {
+          "text": "qual a sua maior realização?"
+        },
+        {
+          "text": "realização de carreira"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "saber_da_vaga",
+      "examples": [
+        {
+          "text": "Como descobriu a nossa vaga?"
+        },
+        {
+          "text": "Como você ficou sabendo desta vaga?"
+        },
+        {
+          "text": "sabendo desta vaga"
+        },
+        {
+          "text": "saber da vaga"
+        },
+        {
+          "text": "vaga"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "salario",
+      "examples": [
+        {
+          "text": "pretensão salarial"
+        },
+        {
+          "text": "Qual a sua pretensão de salário?"
+        },
+        {
+          "text": "Qual a sua pretensão salarial?"
+        },
+        {
+          "text": "qual salário pretende receber?"
+        },
+        {
+          "text": "salário"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "saudacao",
+      "examples": [
+        {
+          "text": "boa noite"
+        },
+        {
+          "text": "boa tarde"
+        },
+        {
+          "text": "bom dia"
+        },
+        {
+          "text": "oi"
+        },
+        {
+          "text": "olá"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "site_favorito",
+      "examples": [
+        {
+          "text": "Qual o seu site favorito?"
+        },
+        {
+          "text": "qual o seu site você mais frequenta?"
+        },
+        {
+          "text": "Qual seu site favorito?"
+        },
+        {
+          "text": "qual site mais frequenta?"
+        },
+        {
+          "text": "site favorito"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "situacao_dificil",
+      "examples": [
+        {
+          "text": "Como lidou com uma situação difícil?"
+        },
+        {
+          "text": "Como lidou com um problema difícil?"
+        },
+        {
+          "text": "Como reagiu com alguma situação difícil marcante em sua vida?"
+        },
+        {
+          "text": "Conte-me como lidou com uma situação difícil."
+        },
+        {
+          "text": "reação de situação difícil"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "viajar",
+      "examples": [
+        {
+          "text": "Aceitaria viajar pela empresa?"
+        },
+        {
+          "text": "me diga se você tem planos de viajem pela empresa"
+        },
+        {
+          "text": "planos de viagem"
+        },
+        {
+          "text": "pretende fazer uma viajem a negócios?"
+        },
+        {
+          "text": "pretende viajar?"
+        },
+        {
+          "text": "Viajaria pela nossa empresa?"
+        },
+        {
+          "text": "viajar pela empresa"
+        },
+        {
+          "text": "Você tem planos de viajar?"
+        }
+      ],
+      "description": ""
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Contato",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "beaferreira.trabalho@gmail.com",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    }
+  ],
+  "metadata": {
+    "api_version": {
+      "major_version": "v2",
+      "minor_version": "2018-11-08"
+    }
+  },
+  "dialog_nodes": [
+    {
+      "type": "standard",
+      "title": "Bem-vindo",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Olá! como posso te ajudar?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "welcome",
+      "dialog_node": "Bem-vindo"
+    },
+    {
+      "type": "standard",
+      "title": "Em outros casos",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Eu não entendi. Você pode tentar reformular a frase."
+              },
+              {
+                "text": "Você pode reformular sua afirmação? Eu não estou entendendo."
+              },
+              {
+                "text": "Eu não entendi o sentido."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "anything_else",
+      "dialog_node": "Em outros casos",
+      "previous_sibling": "node_1_1601448800045",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Sendo uma líder de um grande projeto inovador de Inteligência Artificial, observando e destacando as melhores qualidades dos meus colegas de equipe e os motivando naquilo que eles são bons em fazer e estão dispostos a colocar em prática, instruindo-os da melhor forma possível. Minha grande meta é construir um robô virtual capaz de fazer chamadas em vídeo, de modo a você pensar que é uma pessoa de verdade, da forma mais humana possível, inclusive voz, aparência e gestos. Como uma Chamada em vídeo no whatsapp por exemplo. Através da Linguagem Python é possível fazer um chatbox, para construir um robô seria necessário também a utilização do Adobe premier, esse último ainda não sei usar como profissional, mas é questão de tempo para aprender. \n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#cinco_anos",
+      "dialog_node": "node_10_1601447033675",
+      "previous_sibling": "node_2_1601446968993"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Me imagino mudando a realidade do mundo como conhecemos, criando um robôs virtuais capazes de tomar atitudes por “conta própria” através de comandos pré estabelecidos, como por exemplo, não precisar te lembrar de pagar alguma conta ou ligar o despertador. \nIsso é possível através de avanço da Natural Language Understanding da IBM CLOUD por exemplo. Imagino fazendo um trabalho conjunto, respeitando cada ideia e aproveitando de forma positiva a união dos conhecimentos adquiridos pela equipe.\nMas eu sei que até lá terei que me esforçar e estudar bastante. \n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#em_dez_anos",
+      "dialog_node": "node_1_1601447096732",
+      "previous_sibling": "node_10_1601447033675"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Possuo certificados em vários curso de TI, inclusive HTML, CSS, e desenvolvimento de sites, todos disponíveis em meu linkedIn: \n\nhttps://www.linkedin.com/in/beatriz-oliveira-ferreira-7a90a01a4/ \n\nMas não somente certificados mas também projetos colocados em prática como por exemplo a minha primeira página feita com HTML e CSS, falando sobre a história das comidas.\npossuo um empreendimento com a minha mãe, produzimos pães e bolos para vender, e achei interessante, além do nosso Instagram:\n\nhttps://www.instagram.com/tudo.familia/ \n\nColocar a História de comidas simples que comemos no dia a dia.\n\nhttps://beatrizoliveiraferreira.github.io/bootstrap/ \n\nE o meu chatbox sobre séries da netlfix criado na IBM CLOUD:\n\nhttps://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=us-south&integrationID=17986ac1-6c96-4fd7-9329-d55d3fc2e7ba&serviceInstanceID=b8a300e1-e3af-4e81-b1af-c232bd6d7d8f "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#curriculo",
+      "dialog_node": "node_1_1601447134356",
+      "previous_sibling": "node_1_1601447096732"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Ver séries e filmes em outros idiomas para aprender enquanto me divirto, estudar no duolingo, fazer bolos e escrever histórias, uma delas já foi publicada na Amazon: \n\nhttps://www.amazon.com.br/dp/B08GCBYBJR/ref=cm_sw_r_wa_awdo_t1_NfNpFbF6117WT \n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#hobbies",
+      "dialog_node": "node_1_1601448496830",
+      "previous_sibling": "node_3_1601448431767"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Até mais, espero ter tirado suas dúvidas "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#finalizacao",
+      "dialog_node": "node_1_1601448800045",
+      "previous_sibling": "node_9_1601448725063"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "meu contato e endereço estão neste link:\n\nhttps://beaferreiratrabalh.wixsite.com/contato\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#contato",
+      "dialog_node": "node_2_1601446645334",
+      "previous_sibling": "node_2_1601494517834"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Ensino Superior Incompleto em Publicidade e Propaganda"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#academica",
+      "dialog_node": "node_2_1601446968993",
+      "previous_sibling": "node_2_1601446645334"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Aquele que permita um espaço para os funcionários desenvolverem projetos pessoais, tanto de forma individual como em equipe."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#emprego_dos_sonhos",
+      "dialog_node": "node_2_1601447567544",
+      "previous_sibling": "node_3_1601447509843"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Foi quando eu fiz o oitavo desafio da Maratona Behind The Code desse ano, na qual tive que fazer um robô artificial, relacionado a área de carros, capaz de identificar sentimentos dos feedbacks dos clientes sobre a infraestrutura dos carros, custo, benefício e transformar tudo isso em uma API. Foi algo realmente longe da minha realidade, não vou mentir e dizer que não pensei em desistir desse desafio, mas percebi que o sentimento realizar algo fora do comum da área da tecnologia era mais forte do que qualquer frustração. Segui em frente com bravura, e para minha surpresa, eu consegui. Foi neste momento que percebi que desistir não é uma opção para mim"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#desafio",
+      "dialog_node": "node_2_1601494517834",
+      "previous_sibling": "node_9_1601448927614"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Ansiedade é um ponto a ser melhorado. Mas ao mesmo tempo que é um “defeito” também é um ponto forte, pois foi ela quem me ensinou a importância do autoconhecimento sobre minhas emoções, e não controlá-la, mas sim, entendê-la, e direcioná-la para o momento certo de agir, com persistência, praticidade e profissionalismo, meus dois lados trabalham lado a lado e é isso o que faz dos meus projetos e ideias serem únicos. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#pontos_fracos",
+      "dialog_node": "node_3_1601447509843",
+      "previous_sibling": "node_5_1601447449683"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Através da DigitalInnovationOne."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#saber_da_vaga",
+      "dialog_node": "node_3_1601447670056",
+      "previous_sibling": "node_5_1601447589777"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Por que estudo, pratico e leio muito sobre inteligência artificial e é algo que realmente que me dá muita felicidade fazer parte, uma coisa que a Everis também faz. Sou única na criação de projetos e resolução de problemas. Viso praticidade, em principal, para o usuário, e sempre proponho algo inovador por trás de cada tarefa cumprida. Todos têm uma forma exclusiva de agregar coisas boas e acredito que inovação e ideias pioneiras que sejam capazes de colocar em prática, seja a minha.\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#pode_me_oferecer",
+      "dialog_node": "node_3_1601448431767",
+      "previous_sibling": "node_7_1601448370084"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Fábulas de La Fontaine\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#livro",
+      "dialog_node": "node_3_1601448592745",
+      "previous_sibling": "node_1_1601448496830"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "R$:2000,00"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#salario",
+      "dialog_node": "node_4_1601448234404",
+      "previous_sibling": "node_7_1601448200626"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Não gosto de ser subestimada e também a xenofobia é algo que me incomoda bastante, principalmente porque é o meu sonho morar em outro país, e não ficaria contente em saber que seria discriminada por não ser daquele local, acredito que cada país têm a sua cultura e forma de conhecimento e isso deve ser respeitado e incentivado. \n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#desconfortavel",
+      "dialog_node": "node_5_1601447338911",
+      "previous_sibling": "node_8_1601447289441"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Persistência, praticidade, profissionalismo"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#pontos_fortes",
+      "dialog_node": "node_5_1601447449683",
+      "previous_sibling": "node_8_1601447395167"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Quando estava fazendo muitos cursos, ganhando vários certificados, mas não colocando nada em prática para o dia a dia.Mas através desse sentimento de estagnação que eu comecei a fazer buscar formas de colocar o que eu aprendi em prática, e foi na prática que percebi onde eu poderia melhorar e o que poderia aprender."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#erro",
+      "dialog_node": "node_5_1601447589777",
+      "previous_sibling": "node_2_1601447567544"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Quando meu pai perdeu o emprego e logo em seguida veio a pandemia, pesquisei no youtube sobre várias receitas para vender por encomenda, e criei um site alguns meses atrás chamado Tudo Família\n\nhttps://tudofamilia969.wixsite.com/meusite\n\nE também uma conta no Instagram.\n\nhttps://www.instagram.com/tudo.familia/ \n\nFoi uma situação difícil, mas tive que agir."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#situacao_dificil",
+      "dialog_node": "node_7_1601448100585",
+      "previous_sibling": "node_8_1601447714598"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Sim"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#viajar",
+      "dialog_node": "node_7_1601448200626",
+      "previous_sibling": "node_7_1601448100585"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Pesquisei sobre a Everis na Internet, vi que é uma empresa Espanhola, mas localizada também em vários países da América Latina, além de ser apaixonada pela cultura e idioma espanhol, também é voltada para Tecnologia da Informação, e entrando site eu vi um conteúdo sobre Inteligência Artificial, que é justamente a área na qual mais me encanta. Li também sobre as questões de respeito as culturas e isso é exatamente o que me define neste momento. A Everis é relacionada a Tecnologia da Informação, aborda assuntos de Inteligência Artificial e ainda lida de forma única em relação a diversidade de países, algo que tanto almejo."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#interesse_na_empresa",
+      "dialog_node": "node_7_1601448370084",
+      "previous_sibling": "node_8_1601448295307"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Sou transparente com minhas intenções, dedicada com minhas metas e sempre proponho formas inovadoras de realizar um novo projeto ou resolver algum problema."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#descreva_si_mesmo",
+      "dialog_node": "node_8_1601447289441",
+      "previous_sibling": "node_1_1601447134356"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "A possibilidade de mudar o mundo através da tecnologia."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#motiva",
+      "dialog_node": "node_8_1601447395167",
+      "previous_sibling": "node_5_1601447338911"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Fazer um chatbox virtual. \n\nhttps://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=us-south&integrationID=17986ac1-6c96-4fd7-9329-d55d3fc2e7ba&serviceInstanceID=b8a300e1-e3af-4e81-b1af-c232bd6d7d8f \n\nEstá disponível no meu github:\n\nhttps://github.com/BeatrizOliveiraFerreira/meu-projeto-netflix\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#realizacao_de_carreira",
+      "dialog_node": "node_8_1601447714598",
+      "previous_sibling": "node_3_1601447670056"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Manhã, tarde e noite, inclusive remoto"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#disponibilidade",
+      "dialog_node": "node_8_1601448295307",
+      "previous_sibling": "node_4_1601448234404"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Eu me identifico como uma líder."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#lider",
+      "dialog_node": "node_9_1601448725063",
+      "previous_sibling": "node_3_1601448592745"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Saudações equipe Everis, tudo bem?  Espero que esteja tudo bem com vocês.\nSou uma assistente virtual em treinamento, feita pela Beatriz Oliveira Ferreira através da plataforma IBM, sou programada para responder perguntas frequentes de recrutadores em entrevistas de emprego exclusivamente de sua empresa , aqui eu tiro dúvidas em relação a candidata Beatriz, falo sobre suas informações profissionais, com o objetivo de auxiliá-los no processo de seleção. Deixo aqui algumas questões mais recorrentes que possivelmente irão querer saber sobre ela. \n\n- Por que deveria te contratar?\n- Por que escolheu nossa empresa?  \n- Formação acadêmica                                  \n- Onde você se vê daqui a 10 anos?  \n- Fale sobre seu currículo                                         \n- Fale sobre você                                        \n- O que te deixa desconfortável?            \n- O que te motiva?\n- Qual o seu ponto forte?                                    \n- Qual o seu ponto fraco?\n- Qual seria o seu emprego dos sonhos?\n- Me fale sobre alguma coisa que você tenha cometido um erro\n- Como ficou sabendo da vaga?\n- qual a sua maior realização?\n- Situação difícil\n- Aceitaria viajar pela empresa?\n- Pretensão salarial\n- Disponibilidade de horário\n- Contato\n- Qual o seu hobbie?\n- Qual o último livro que leu?\n- Qual foi o seu maior desafio?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#saudacao",
+      "dialog_node": "node_9_1601448927614",
+      "previous_sibling": "Bem-vindo"
+    }
+  ],
+  "counterexamples": [],
+  "system_settings": {
+    "disambiguation": {
+      "prompt": "Você quis dizer:",
+      "enabled": true,
+      "randomize": true,
+      "max_suggestions": 5,
+      "suggestion_text_policy": "title",
+      "none_of_the_above_prompt": "Nenhuma das anteriores"
+    },
+    "system_entities": {
+      "enabled": true
+    },
+    "human_agent_assist": {
+      "prompt": "Você quis dizer:"
+    }
+  },
+  "learning_opt_out": false,
+  "name": "Recrutamento",
+  "language": "pt-br",
+  "description": ""
+}
